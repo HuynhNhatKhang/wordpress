@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HuynhNhatKhang &#8211; KhangWordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/huynhnhatkhang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://huynhnhatkhang.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 09 Sep 2022 05:42:58 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://huynhnhatkhang.github.io/wordpress/chao-moi-nguoi/</link>
+					<comments>https://huynhnhatkhang.github.io/wordpress/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[HuynhNhatKhang]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2022 05:42:58 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://huynhnhatkhang.github.io/wordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://huynhnhatkhang.github.io/wordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Elementor #74</title>
+		<link>https://huynhnhatkhang.github.io/wordpress/elementor-74/</link>
+					<comments>https://huynhnhatkhang.github.io/wordpress/elementor-74/#respond</comments>
+		
+		<dc:creator><![CDATA[HuynhNhatKhang]]></dc:creator>
+		<pubDate>Mon, 05 Sep 2022 03:46:48 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">http://localhost/myproject/wordpress/?p=74</guid>
+
+					<description><![CDATA[Battlefied 1 Traler Call of Duty WWII Review Tomb Raider 2 Review Recents News Sign up for Giveaway of Uncharted 4 This is the heading Lorem ipsum dolor sit amet consectetur adipiscing elit dolor Click Here Lates News Đây là heading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper&#8230;&#160;<a href="https://huynhnhatkhang.github.io/wordpress/elementor-74/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Elementor #74</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="75" class="elementor elementor-75">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b1ec4cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1ec4cb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e6d91b0" data-id="e6d91b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c0b0ca1 elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="c0b0ca1" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://huynhnhatkhang.github.io/wordpress/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-c0b0ca1" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item">Blogs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item">Blogs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item">Blogs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item">Blogs</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-c0b0ca1" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item" tabindex="-1">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item" tabindex="-1">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item" tabindex="-1">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://huynhnhatkhang.github.io/wordpress/trang-chu/" class="elementor-item" tabindex="-1">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item" tabindex="-1">Blogs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item" tabindex="-1">Blogs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item" tabindex="-1">Blogs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="https://huynhnhatkhang.github.io/wordpress/blogs/" class="elementor-item" tabindex="-1">Blogs</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-da1813f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="da1813f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-541eaed" data-id="541eaed" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a4ac6e1 elementor-widget elementor-widget-image" data-id="a4ac6e1" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/1-copyright.jpg" title="" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2dbd20f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2dbd20f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b2622e4" data-id="b2622e4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e27d644 elementor-cta--skin-cover elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="e27d644" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://huynhnhatkhang.github.io/wordpress/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url();"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+				<h1 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">Battlefied 1 Traler</h1>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d932626" data-id="d932626" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c91b849 elementor-cta--skin-cover elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="c91b849" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url();"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">Call of Duty WWII Review</h2>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-386a1bb" data-id="386a1bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bdd3e32 elementor-cta--skin-cover elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="bdd3e32" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url();"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">Tomb Raider 2 Review</h2>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-af30047 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="af30047" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f89a22f" data-id="f89a22f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1f24b7a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1f24b7a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1be5e3a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1be5e3a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d7826e" data-id="4d7826e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d10c931 elementor-widget elementor-widget-heading" data-id="d10c931" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-xl">Recents News</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3b2634e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3b2634e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7454876" data-id="7454876" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c804426 elementor-widget elementor-widget-image" data-id="c804426" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/post-1_new-copyright-1.jpg" title="" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8e4761f" data-id="8e4761f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-9d637b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9d637b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2dd40c7" data-id="2dd40c7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3a0cc24 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="3a0cc24" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Sign up for Giveaway of Uncharted 4</h2>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-214ba0c elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="214ba0c" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">This is the heading</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						Lorem ipsum dolor sit amet consectetur adipiscing elit dolor					</div>
+				
+									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+					<a class="elementor-cta__button elementor-button elementor-size-sm">
+						Click Here					</a>
+					</div>
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-068dcc1" data-id="068dcc1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-eece8b8 elementor-widget elementor-widget-image" data-id="eece8b8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://huynhnhatkhang.github.io/wordpress/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8f46a9b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f46a9b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7cce946" data-id="7cce946" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bf0b8e3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="bf0b8e3" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3b1ebc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3b1ebc1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b77294" data-id="5b77294" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a1bf7ca elementor-widget elementor-widget-heading" data-id="a1bf7ca" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Lates News</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-770b5ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="770b5ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d2ee4e0" data-id="d2ee4e0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f6380cd elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="f6380cd" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/post-27-copyright-1.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Đây là heading</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-784f006 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="784f006" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/post-27-copyright-1.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Đây là heading</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f26d658 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="f26d658" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/post-27-copyright-1.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Đây là heading</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fa4fdb7 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="fa4fdb7" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/post-27-copyright-1.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Đây là heading</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-05226f3 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="05226f3" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/post-27-copyright-1.jpg" title="" alt="" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Đây là heading</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1c0026b" data-id="1c0026b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-51c5aa0 elementor-tabs-view-horizontal elementor-widget elementor-widget-tabs" data-id="51c5aa0" data-element_type="widget" data-widget_type="tabs.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-wrapper{width:25%;-ms-flex-negative:0;flex-shrink:0}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active{border-right-style:none}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:after,.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:before{height:999em;width:0;right:0;border-right-style:solid}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:before{top:0;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%)}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tab-desktop-title.elementor-active:after{top:100%}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title{display:table-cell}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active{border-bottom-style:none}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:after,.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:before{bottom:0;height:0;width:999em;border-bottom-style:solid}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:before{right:100%}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:after{left:100%}.elementor-widget-tabs .elementor-tab-content,.elementor-widget-tabs .elementor-tab-title,.elementor-widget-tabs .elementor-tab-title:after,.elementor-widget-tabs .elementor-tab-title:before,.elementor-widget-tabs .elementor-tabs-content-wrapper{border:1px #d4d4d4}.elementor-widget-tabs .elementor-tabs{text-align:left}.elementor-widget-tabs .elementor-tabs-wrapper{overflow:hidden}.elementor-widget-tabs .elementor-tab-title{cursor:pointer;outline:var(--focus-outline,none)}.elementor-widget-tabs .elementor-tab-desktop-title{position:relative;padding:20px 25px;font-weight:700;line-height:1;border:solid transparent}.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active{border-color:#d4d4d4}.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active:after,.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active:before{display:block;content:"";position:absolute}.elementor-widget-tabs .elementor-tab-desktop-title:focus-visible{border:1px solid #000}.elementor-widget-tabs .elementor-tab-mobile-title{padding:10px;cursor:pointer}.elementor-widget-tabs .elementor-tab-content{padding:20px;display:none}@media (max-width:767px){.elementor-tabs .elementor-tab-content,.elementor-tabs .elementor-tab-title{border-style:solid solid none}.elementor-tabs .elementor-tabs-wrapper{display:none}.elementor-tabs .elementor-tabs-content-wrapper{border-bottom-style:solid}.elementor-tabs .elementor-tab-content{padding:10px}}@media (min-width:768px){.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-wrapper{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.elementor-widget-tabs.elementor-tabs-view-vertical .elementor-tabs-content-wrapper{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-style:solid solid solid none}.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-content{border-style:none solid solid}.elementor-widget-tabs.elementor-tabs-alignment-center .elementor-tabs-wrapper,.elementor-widget-tabs.elementor-tabs-alignment-end .elementor-tabs-wrapper,.elementor-widget-tabs.elementor-tabs-alignment-stretch .elementor-tabs-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-tabs.elementor-tabs-alignment-center .elementor-tabs-wrapper{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget-tabs.elementor-tabs-alignment-end .elementor-tabs-wrapper{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget-tabs.elementor-tabs-alignment-stretch.elementor-tabs-view-horizontal .elementor-tab-title{width:100%}.elementor-widget-tabs.elementor-tabs-alignment-stretch.elementor-tabs-view-vertical .elementor-tab-title{height:100%}.elementor-tabs .elementor-tab-mobile-title{display:none}}</style>		<div class="elementor-tabs">
+			<div class="elementor-tabs-wrapper" role="tablist" >
+									<div id="elementor-tab-title-8571" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-8571" aria-expanded="false">Tab #1</div>
+									<div id="elementor-tab-title-8572" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-8572" aria-expanded="false">Tab #2</div>
+							</div>
+			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-8571" aria-expanded="false">Tab #1</div>
+					<div id="elementor-tab-content-8571" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-8571" tabindex="0" hidden="false"><p><img loading="lazy" class="alignnone size-full wp-image-92" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/09/post-3-copyright-600x550-1.jpg" alt="" width="600" height="550" />.</p></div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-8572" aria-expanded="false">Tab #2</div>
+					<div id="elementor-tab-content-8572" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-8572" tabindex="0" hidden="hidden">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cb91be4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cb91be4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fa99d73" data-id="fa99d73" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-519280d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="519280d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b76e86 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b76e86" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8f7cf48" data-id="8f7cf48" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a5275aa elementor-widget elementor-widget-heading" data-id="a5275aa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Game Store</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5377f31 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5377f31" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-57e3df4" data-id="57e3df4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4d411fe elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="4d411fe" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Thrustmaster Ferrari 458</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						$65.00-$75.00					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-40d9ca7" data-id="40d9ca7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-178637f elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="178637f" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Thrustmaster Ferrari 458</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						$65.00-$75.00					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-392e930" data-id="392e930" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0072fb9 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="0072fb9" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">XBOX Original Gamepad</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						$65.00-$75.00					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-dede1c8" data-id="dede1c8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-06a9c61 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="06a9c61" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">PS3 Original Gamepad</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						$65.00-$75.00					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-29cf526 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29cf526" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-147a906" data-id="147a906" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f29899f elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="f29899f" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+@charset "UTF-8";.elementor-star-rating{color:#ccd6df;font-family:eicons;display:inline-block}.elementor-star-rating i{display:inline-block;position:relative;font-style:normal;cursor:default}.elementor-star-rating i:before{content:"\e934";display:block;font-size:inherit;font-family:inherit;position:absolute;overflow:hidden;color:#f0ad4e;top:0;left:0}.elementor-star-rating .elementor-star-empty:before{content:none}.elementor-star-rating .elementor-star-1:before{width:10%}.elementor-star-rating .elementor-star-2:before{width:20%}.elementor-star-rating .elementor-star-3:before{width:30%}.elementor-star-rating .elementor-star-4:before{width:40%}.elementor-star-rating .elementor-star-5:before{width:50%}.elementor-star-rating .elementor-star-6:before{width:60%}.elementor-star-rating .elementor-star-7:before{width:70%}.elementor-star-rating .elementor-star-8:before{width:80%}.elementor-star-rating .elementor-star-9:before{width:90%}.elementor-star-rating__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-star-rating__title{margin-right:10px}.elementor-star-rating--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating--align-justify .elementor-star-rating__title{margin-right:auto}@media (max-width:1024px){.elementor-star-rating-tablet--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-tablet--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-tablet--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-tablet--align-justify .elementor-star-rating__title{margin-right:auto}}@media (max-width:767px){.elementor-star-rating-mobile--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-mobile--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-mobile--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-mobile--align-justify .elementor-star-rating__title{margin-right:auto}}.last-star{letter-spacing:0}.elementor--star-style-star_unicode .elementor-star-rating{font-family:Arial,Helvetica,sans-serif}.elementor--star-style-star_unicode .elementor-star-rating i:not(.elementor-star-empty):before{content:"★"}</style>
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-16c77a2 elementor-align-center elementor-widget elementor-widget-paypal-button" data-id="16c77a2" data-element_type="widget" data-settings="{&quot;merchant_account&quot;:&quot;simple&quot;}" data-widget_type="paypal-button.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-payment-button{border:none}</style>		<div class="elementor-button-wrapper">
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+			<input type="hidden" name="cmd" value="_xclick" />
+			<input type="hidden" name="business" value="" />
+			<input type="hidden" name="lc" value="US" />
+			<input type="hidden" name="item_name" value="" />
+			<input type="hidden" name="item_number" value="" />
+			<input type="hidden" name="currency_code" value="USD" />
+			<input type="hidden" name="amount" value="0.00" />
+			<input type="hidden" name="no_note" value="1">
+
+							<input type="hidden" name="shipping" value="0" />
+				<input type="hidden" name="tax_rate" value="0" />
+				<input type="hidden" name="quantity" value="1" />
+						<button class="elementor-button elementor-paypal-legacy elementor-payment-button" role="button" type="submit">
+					<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-paypal"></i>			</span>
+						<span class="elementor-button-text">Buy Now</span>
+		</span>
+				</button>
+						<div class="elementor-message elementor-message-danger elementor-hidden elementor-error-message-payment">
+					No payment method connected. Contact seller.				</div>
+						</form>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9487933" data-id="9487933" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b8d26fa elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="b8d26fa" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2f0783c elementor-align-center elementor-widget elementor-widget-paypal-button" data-id="2f0783c" data-element_type="widget" data-settings="{&quot;merchant_account&quot;:&quot;simple&quot;}" data-widget_type="paypal-button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+			<input type="hidden" name="cmd" value="_xclick" />
+			<input type="hidden" name="business" value="" />
+			<input type="hidden" name="lc" value="US" />
+			<input type="hidden" name="item_name" value="" />
+			<input type="hidden" name="item_number" value="" />
+			<input type="hidden" name="currency_code" value="USD" />
+			<input type="hidden" name="amount" value="0.00" />
+			<input type="hidden" name="no_note" value="1">
+
+							<input type="hidden" name="shipping" value="0" />
+				<input type="hidden" name="tax_rate" value="0" />
+				<input type="hidden" name="quantity" value="1" />
+						<button class="elementor-button elementor-paypal-legacy elementor-payment-button" role="button" type="submit">
+					<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-paypal"></i>			</span>
+						<span class="elementor-button-text">Buy Now</span>
+		</span>
+				</button>
+						<div class="elementor-message elementor-message-danger elementor-hidden elementor-error-message-payment">
+					No payment method connected. Contact seller.				</div>
+						</form>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-126d529" data-id="126d529" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-46ce0ee elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="46ce0ee" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e67df76 elementor-align-center elementor-widget elementor-widget-paypal-button" data-id="e67df76" data-element_type="widget" data-settings="{&quot;merchant_account&quot;:&quot;simple&quot;}" data-widget_type="paypal-button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+			<input type="hidden" name="cmd" value="_xclick" />
+			<input type="hidden" name="business" value="" />
+			<input type="hidden" name="lc" value="US" />
+			<input type="hidden" name="item_name" value="" />
+			<input type="hidden" name="item_number" value="" />
+			<input type="hidden" name="currency_code" value="USD" />
+			<input type="hidden" name="amount" value="0.00" />
+			<input type="hidden" name="no_note" value="1">
+
+							<input type="hidden" name="shipping" value="0" />
+				<input type="hidden" name="tax_rate" value="0" />
+				<input type="hidden" name="quantity" value="1" />
+						<button class="elementor-button elementor-paypal-legacy elementor-payment-button" role="button" type="submit">
+					<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-paypal"></i>			</span>
+						<span class="elementor-button-text">Buy Now</span>
+		</span>
+				</button>
+						<div class="elementor-message elementor-message-danger elementor-hidden elementor-error-message-payment">
+					No payment method connected. Contact seller.				</div>
+						</form>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-401382d" data-id="401382d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3693917 elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="3693917" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1eb7d4d elementor-align-center elementor-widget elementor-widget-paypal-button" data-id="1eb7d4d" data-element_type="widget" data-settings="{&quot;merchant_account&quot;:&quot;simple&quot;}" data-widget_type="paypal-button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+			<input type="hidden" name="cmd" value="_xclick" />
+			<input type="hidden" name="business" value="" />
+			<input type="hidden" name="lc" value="US" />
+			<input type="hidden" name="item_name" value="" />
+			<input type="hidden" name="item_number" value="" />
+			<input type="hidden" name="currency_code" value="USD" />
+			<input type="hidden" name="amount" value="0.00" />
+			<input type="hidden" name="no_note" value="1">
+
+							<input type="hidden" name="shipping" value="0" />
+				<input type="hidden" name="tax_rate" value="0" />
+				<input type="hidden" name="quantity" value="1" />
+						<button class="elementor-button elementor-paypal-legacy elementor-payment-button" role="button" type="submit">
+					<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-paypal"></i>			</span>
+						<span class="elementor-button-text">Buy Now</span>
+		</span>
+				</button>
+						<div class="elementor-message elementor-message-danger elementor-hidden elementor-error-message-payment">
+					No payment method connected. Contact seller.				</div>
+						</form>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f1f7821 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1f7821" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef89c0e" data-id="ef89c0e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-46204bc elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="46204bc" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-708e02b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="708e02b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38a410d" data-id="38a410d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-69280ec elementor-widget elementor-widget-heading" data-id="69280ec" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Game Video</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7740159 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7740159" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-878ac74" data-id="878ac74" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c3c2ef2 e-tabs-view-vertical elementor-layout-right elementor-widget elementor-widget-video-playlist" data-id="c3c2ef2" data-element_type="widget" data-settings="{&quot;playlist_title&quot;:&quot;Playlist&quot;,&quot;tabs&quot;:[{&quot;title&quot;:&quot;Thi\u1ebft K\u1ebf V\u1edbi #Elementor: Copy Section  Landing_Page New Galaxy C\u1ee7a H\u01b0ng Th\u1ecbnh&quot;,&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=X51aNVZV2UQ&amp;list=PLmJmn3fYDVtOK5uRAaNYOrvK5_VZR2ga6&quot;,&quot;duration&quot;:&quot;17:07&quot;,&quot;thumbnail&quot;:{&quot;url&quot;:&quot;http:\/\/img.youtube.com\/vi\/X51aNVZV2UQ\/maxresdefault.jpg&quot;,&quot;id&quot;:&quot;&quot;},&quot;_id&quot;:&quot;452bc6e&quot;,&quot;vimeo_url&quot;:null,&quot;type&quot;:&quot;youtube&quot;,&quot;is_external_url&quot;:null,&quot;hosted_url&quot;:null,&quot;external_url&quot;:null,&quot;inner_tab_is_content_visible&quot;:&quot;&quot;,&quot;inner_tab_content_1&quot;:null,&quot;inner_tab_content_2&quot;:null},{&quot;title&quot;:&quot;Thi\u1ebft K\u1ebf V\u1edbi #Elementor: Copy Section  Landing_Page New Galaxy C\u1ee7a H\u01b0ng Th\u1ecbnh&quot;,&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=X51aNVZV2UQ&amp;list=PLmJmn3fYDVtOK5uRAaNYOrvK5_VZR2ga6&quot;,&quot;duration&quot;:&quot;17:07&quot;,&quot;thumbnail&quot;:{&quot;url&quot;:&quot;http:\/\/img.youtube.com\/vi\/X51aNVZV2UQ\/maxresdefault.jpg&quot;,&quot;id&quot;:&quot;&quot;},&quot;vimeo_url&quot;:null,&quot;_id&quot;:&quot;365f0ff&quot;,&quot;type&quot;:&quot;youtube&quot;,&quot;is_external_url&quot;:null,&quot;hosted_url&quot;:null,&quot;external_url&quot;:null,&quot;inner_tab_is_content_visible&quot;:&quot;&quot;,&quot;inner_tab_content_1&quot;:null,&quot;inner_tab_content_2&quot;:null},{&quot;title&quot;:&quot;Thi\u1ebft K\u1ebf V\u1edbi #Elementor: Copy Section  Landing_Page New Galaxy C\u1ee7a H\u01b0ng Th\u1ecbnh&quot;,&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=X51aNVZV2UQ&amp;list=PLmJmn3fYDVtOK5uRAaNYOrvK5_VZR2ga6&quot;,&quot;duration&quot;:&quot;17:07&quot;,&quot;thumbnail&quot;:{&quot;url&quot;:&quot;http:\/\/img.youtube.com\/vi\/X51aNVZV2UQ\/maxresdefault.jpg&quot;,&quot;id&quot;:&quot;&quot;},&quot;vimeo_url&quot;:null,&quot;_id&quot;:&quot;ae3a393&quot;,&quot;type&quot;:&quot;youtube&quot;,&quot;is_external_url&quot;:null,&quot;hosted_url&quot;:null,&quot;external_url&quot;:null,&quot;inner_tab_is_content_visible&quot;:&quot;&quot;,&quot;inner_tab_content_1&quot;:null,&quot;inner_tab_content_2&quot;:null}],&quot;inner_tab_title_1&quot;:&quot;Tab #1&quot;,&quot;inner_tab_title_2&quot;:&quot;Tab #2&quot;}" data-widget_type="video-playlist.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://huynhnhatkhang.github.io/wordpress/wp-content/plugins/elementor-pro/assets/css/widget-video-playlist.min.css">
+		<div class="e-tabs">
+			<div class="e-tabs-main-area">
+				<div class="e-tabs-wrapper">
+					<div class="e-tabs-header">
+												<h2 class="e-tabs-title">Playlist</h2>
+						<div class="e-tabs-header-right-side">
+															<span class="e-tabs-videos-count">3 Videos</span>
+														<i aria-hidden="true" class="e-tabs-toggle-videos-display-button rotate-down eicon-caret-down"></i>						</div>
+					</div>
+					<div class="e-tabs-items-wrapper">
+						<div class="e-tabs-items" role="tablist">
+																								<div id="e-tab-title-2051" class="e-tab-title e-tab-desktop-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="e-tab-content-2051">
+																					<div class="e-tab-thumbnail">
+																									<img src="http://img.youtube.com/vi/X51aNVZV2UQ/maxresdefault.jpg" />
+																								<span class="icon-play"><i aria-hidden="true" class="fas fa-play-circle"></i></span>
+												<span class="icon-watched"><i aria-hidden="true" class="fas fa-check-circle"></i></span>
+											</div>
+																				<h4 class="e-tab-title-text" title="Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh">
+											<a href="">
+																								Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh											</a>
+										</h4>
+																					<span class="e-tab-duration">17:07</span>
+																			</div>
+																																<div id="e-tab-title-2052" class="e-tab-title e-tab-desktop-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="e-tab-content-2052">
+																					<div class="e-tab-thumbnail">
+																									<img src="http://img.youtube.com/vi/X51aNVZV2UQ/maxresdefault.jpg" />
+																								<span class="icon-play"><i aria-hidden="true" class="fas fa-play-circle"></i></span>
+												<span class="icon-watched"><i aria-hidden="true" class="fas fa-check-circle"></i></span>
+											</div>
+																				<h4 class="e-tab-title-text" title="Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh">
+											<a href="">
+																								Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh											</a>
+										</h4>
+																					<span class="e-tab-duration">17:07</span>
+																			</div>
+																																<div id="e-tab-title-2053" class="e-tab-title e-tab-desktop-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="e-tab-content-2053">
+																					<div class="e-tab-thumbnail">
+																									<img src="http://img.youtube.com/vi/X51aNVZV2UQ/maxresdefault.jpg" />
+																								<span class="icon-play"><i aria-hidden="true" class="fas fa-play-circle"></i></span>
+												<span class="icon-watched"><i aria-hidden="true" class="fas fa-check-circle"></i></span>
+											</div>
+																				<h4 class="e-tab-title-text" title="Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh">
+											<a href="">
+																								Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh											</a>
+										</h4>
+																					<span class="e-tab-duration">17:07</span>
+																			</div>
+																					</div>
+						<div class="shadow shadow-top" aria-hidden="true"></div>
+						<div class="shadow shadow-bottom" aria-hidden="true"></div>
+					</div>
+				</div>
+
+				<div class="e-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
+											<div id="e-tab-content-2051" class="e-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="e-tab-title-2051" tabindex="0" data-video-url="https://www.youtube.com/watch?v=X51aNVZV2UQ&amp;list=PLmJmn3fYDVtOK5uRAaNYOrvK5_VZR2ga6" data-video-type="youtube" data-video-title="Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh" data-video-duration="17:07">
+							<div></div>
+													</div>
+											<div id="e-tab-content-2052" class="e-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="e-tab-title-2052" tabindex="0" data-video-url="https://www.youtube.com/watch?v=X51aNVZV2UQ&amp;list=PLmJmn3fYDVtOK5uRAaNYOrvK5_VZR2ga6" data-video-type="youtube" data-video-title="Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh" data-video-duration="17:07" hidden="hidden">
+							<div></div>
+													</div>
+											<div id="e-tab-content-2053" class="e-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="e-tab-title-2053" tabindex="0" data-video-url="https://www.youtube.com/watch?v=X51aNVZV2UQ&amp;list=PLmJmn3fYDVtOK5uRAaNYOrvK5_VZR2ga6" data-video-type="youtube" data-video-title="Thiết Kế Với #Elementor: Copy Section  Landing_Page New Galaxy Của Hưng Thịnh" data-video-duration="17:07" hidden="hidden">
+							<div></div>
+													</div>
+									</div>
+			</div>
+
+			<div class="e-tabs-inner-tabs" >
+																																		</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1e4cd65 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e4cd65" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f6a336d" data-id="f6a336d" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://huynhnhatkhang.github.io/wordpress/elementor-74/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DEMO</title>
+		<link>https://huynhnhatkhang.github.io/wordpress/demo/</link>
+					<comments>https://huynhnhatkhang.github.io/wordpress/demo/#respond</comments>
+		
+		<dc:creator><![CDATA[HuynhNhatKhang]]></dc:creator>
+		<pubDate>Mon, 29 Aug 2022 00:51:13 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">http://localhost/myproject/wordpress/?p=62</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://huynhnhatkhang.github.io/wordpress/demo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 10 Các Loại Game Mobile Hot Nhất 2022</title>
+		<link>https://huynhnhatkhang.github.io/wordpress/top-10-cac-loai-game-mobile-hot-nhat-2022/</link>
+					<comments>https://huynhnhatkhang.github.io/wordpress/top-10-cac-loai-game-mobile-hot-nhat-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[HuynhNhatKhang]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2022 01:08:19 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">http://localhost/myproject/wordpress/?p=7</guid>
+
+					<description><![CDATA[Top 10 Các Loại Game Mobile Hot Nhất 2022 PUBG Mobile Một trận map trong PUBG Mobile sẽ có tổng cộng 100 người chơi tham chiến với vòng bo hẹp dần theo thời gian. Quy mô tổ chức trong một trận đấu PUBG Mobile khá lớn, cộng thêm việc người chơi được ghép đấu ở&#8230;&#160;<a href="https://huynhnhatkhang.github.io/wordpress/top-10-cac-loai-game-mobile-hot-nhat-2022/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Top 10 Các Loại Game Mobile Hot Nhất 2022</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<h2><strong>Top 10 Các Loại Game Mobile Hot Nhất 2022</strong></h2>
+
+
+
+<ul><li><strong>PUBG Mobile</strong></li></ul>
+
+
+
+<p>Một trận map trong PUBG Mobile sẽ có tổng cộng 100 người chơi tham chiến với vòng bo hẹp dần theo thời gian. Quy mô tổ chức trong một trận đấu PUBG Mobile khá lớn, cộng thêm việc người chơi được ghép đấu ở khắp các quốc gia trên toàn thế giới nên nó khiến các game thủ càng hứng thú hơn. Chính vì vậy, PUBG Mobile đã nhận về rất nhiều giải thưởng lớn và nhỏ, trở thành cơn sốt trong các loại game tại Việt Nam và nhiều nước trên thế giới</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download.jpg" alt="" class="wp-image-8" width="650" height="364"/></figure>
+
+
+
+<ul><li><strong>Liên quân Mobile</strong></li></ul>
+
+
+
+<p>Liên quân mobile cũng là top các loại game hot tại Việt Nam với thể loại chiến thuật MOBA do Garena phát hành. Game này có nguồn gốc từ Vương Giả Vinh Diệu. Hiện nay, Liên quân mobile đang trở thành xu hướng của các game thủ đam mê những trận đấu giữa sức mạnh, kỹ năng chuyên nghiệp của các tướng, từng nhân vật được chọn.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-1.jpg" alt="" class="wp-image-9" width="649" height="331"/></figure>
+
+
+
+<ul><li><strong>Tốc chiến </strong></li></ul>
+
+
+
+<p>Game Liên minh huyền thoại: Tốc chiến (LMHT), tên tiếng Anh là League of Legends (LoL) được phát hành vào 27/10/2009. Kể từ khi mới phát hành, Liên minh huyền thoại đã nhận được nhiều phản hồi tích cực và trở nên phổ biến những năm sau. Đây là một trong các loại game video đấu trường trận chiến trực tuyến thu hút rất nhiều người chơi. Liên minh huyền thoại là game miễn phí và được hỗ trợ bởi các microtransaction- vi giao dịch.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-2.jpg" alt="" class="wp-image-10" width="650" height="342"/></figure>
+
+
+
+<ul><li><strong>Play Together</strong></li></ul>
+
+
+
+<p>Trong Play Together, bạn sẽ vào vai một cô/ cậu bé do chính bạn tự thiết lập. Nhân vật của bạn sẽ sống trong một thế giới ảo tràn ngập màu sắc, niềm vui, cả thành phố lẫn nông thôn. Mọi người sống ở đây rất thân thiện, có nhiều game nhỏ, nhiệm vụ giúp bạn kiếm được nhiều tiền.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-3.jpg" alt="" class="wp-image-11" width="648" height="317"/></figure>
+
+
+
+<ul><li><strong>Apex Legends</strong></li></ul>
+
+
+
+<p>Với thiết kế gồm tổ đội 3 người và không có chế độ solo, người chơi của Apex Legends sẽ rất khó để một mình giết đối thủ bởi ở đây cần độ tác chiến cao. Những nơi có đồ xịn để loot sẽ được đánh dấu sẵn trên bản đồ Apex Legends. Do vậy, các game thủ thích việc tranh đấu nảy lửa có thể chọn nơi đánh nhau để giành được đồ ngon.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-4.jpg" alt="" class="wp-image-12" width="650" height="364"/></figure>
+
+
+
+<ul><li><strong>Call of Duty Mobile</strong></li></ul>
+
+
+
+<p>Call of Duty là một loại các loại game thuộc thể loại bắn súng tương tự như PUBG qua góc nhìn thứ nhất thông qua các nhân vật trong game. Và nếu bạn là một gamer yêu thích thể các loại game FPS trên PC thì Call of Duty không còn là cái tên quá xa lạ. Nhưng bất ngờ thay, sự kết hợp giữa ông lớn của làng game Trung Quốc Tencent và nhà sản xuất Activision đã tạo nên phiên bản Call of Duty Mobile gây ra cú nổ lớn với 70 triệu lượt cài đặt sau vài ngày ra mắt.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-5.jpg" alt="" class="wp-image-13" width="650" height="364"/></figure>
+
+
+
+<ul><li><strong>Candy Crush Saga</strong></li></ul>
+
+
+
+<p>Mỗi lượt ghép của bạn được coi là một nước đi và số nước đi có hạn. Nếu bạn sử dụng hết lượt nhưng chưa hoàn thành nhiệm vụ thì bạn sẽ thua cuộc.</p>
+
+
+
+<p>Cạnh đó, ghép 4 kẹo trở lên sẽ cho ra các loại kẹo khác có khả năng đặc biệt giúp người chơi ăn được nhiều kẹo hơn. Để qua màn, bạn phải đạt tối thiểu 1 sao, trừ những màn có yêu cầu cột mốc riêng. Nếu muốn nhận 1 sao, bạn phải hoàn thành thử thách game của Candy Crush Saga trước khi số nước đi về 0.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-6.jpg" alt="" class="wp-image-14" width="648" height="339"/></figure>
+
+
+
+<ul><li><strong>Among Us</strong></li></ul>
+
+
+
+<p>Among Us đem đến cho người chơi nhiều cảm xúc thú vị, điều bất ngờ tạo nên sức hút riêng của game. Khi chơi Among Us sẽ có 4 đến 10 người chơi online hoặc thông qua wifi cục bộ. Bạn sẽ được phân công ngẫu nhiên trong từng ván để trở thành những phi hành đoàn dũng cảm đi làm nhiệm vụ, tìm sự thật ai là kẻ giả mạo đang tìm cách phá huỷ con tàu, giết chết tất cả mọi người.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-7.jpg" alt="" class="wp-image-15" width="650" height="390"/></figure>
+
+
+
+<ul><li><strong>Hải tặc đại chiến</strong></li></ul>
+
+
+
+<p>Chính vì vậy, cốt truyện xuyên suốt Hải tặc đại chiến cũng chính là câu chuyện về hành trình của anh chàng Mũ rơm Luffy trên con đường thực hiện ước mơ trở thành vua hải tặc của mình.</p>
+
+
+
+<p>Hải tặc đại chiến thuộc các loại game chiến thuật theo dạng thẻ bài. Chính vì vậy, nhiệm vụ của người chơi là sưu tầm thẻ bài các nhân vật truyện tranh trong One Piece để xây dựng cho mình một đội hình hoàn hảo nhất, chiến đầu, tham gia vào cuộc đua để trở thành vua hải tặc.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-8.jpg" alt="" class="wp-image-16" width="650" height="240"/></figure>
+
+
+
+<ul><li><strong>Phá đảo thế giới ảo &#8211; Roblox</strong></li></ul>
+
+
+
+<p>Đồ hoạ thiết kế trong Roblox là dạng khối vuông 3D giống như các nhân vật 3D lego- xếp hình và người chơi có thể thoả sức tạo hình cho nhân vật. Thế giới ảo Roblox đa dạng với đầy đủ sắc màu tuỳ thuộc vào cách người chơi tuỳ chỉnh, loại game được chọn để chơi.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/download-9.jpg" alt="" class="wp-image-17" width="652" height="319"/></figure>
+
+
+
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+
+
+
+<ul class="wp-container-1 wp-block-social-links"><li class="wp-social-link wp-social-link-facebook wp-block-social-link"><a href="https://www.facebook.com/khangg.nhatt.7"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+
+<li class="wp-social-link wp-social-link-youtube wp-block-social-link"><a href="https://www.youtube.com/channel/UChur_RaKSVGd9oXMfJYIFyg"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">YouTube</span></a></li>
+
+<li class="wp-social-link wp-social-link-instagram wp-block-social-link"><a href="https://www.instagram.com/khanggg.u/"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li></ul>
+
+
+<p><div class="nv-iframe-embed"><iframe loading="lazy" title="TOP GAME || 10 GAME MOBILE QUYỀN LỰC - THỊNH HÀNH NHẤT THẾ GIỚI...! || Thư Viện Game" width="1200" height="675" src="https://www.youtube.com/embed/q1ZeJ2hNRKs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://huynhnhatkhang.github.io/wordpress/top-10-cac-loai-game-mobile-hot-nhat-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://huynhnhatkhang.github.io/wordpress/chao-moi-nguoi-2/</link>
+					<comments>https://huynhnhatkhang.github.io/wordpress/chao-moi-nguoi-2/#comments</comments>
+		
+		<dc:creator><![CDATA[HuynhNhatKhang]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2022 02:03:17 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">http://localhost/myproject/wordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://huynhnhatkhang.github.io/wordpress/chao-moi-nguoi-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
